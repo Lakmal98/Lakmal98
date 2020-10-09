@@ -21,6 +21,6 @@
 
 ## 🏠 Reach me:
 - [📧 ](mailto:lakmalepp@gmail.com) - lakmalepp@gmail.com
-- [![Facebook Logo](/images/fb.png)](linkedin.com/in/dimuthu-lakmal-4593421a1/)
-- [FaceBook](facebook.com/LakmalEpp)
+- ![Facebook](/images/fb.png)] [Facebook](facebook.com/LakmalEpp)
+- [LinkedIn](linkedin.com/in/dimuthu-lakmal-4593421a1)
 - [Twitter](twitter.com/LakmalEpp)
