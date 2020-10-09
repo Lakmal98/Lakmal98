@@ -20,7 +20,9 @@
 ##### 💬 Ask me about *`JavaScript`*, *`PHP`*, *`Java`* 
 
 ## 🏠 Reach me:
-- [📧 ](mailto:lakmalepp@gmail.com) - lakmalepp@gmail.com
-- [![Facebook Logo](/images/fb.png)](linkedin.com/in/dimuthu-lakmal-4593421a1/)
-- [FaceBook](facebook.com/LakmalEpp)
-- [Twitter](twitter.com/LakmalEpp)
+[![Gmail](/images/gm.png)](mailto:lakmalepp@gmail.com)
+[![HotMail](/images/hm.png)](mailto:lakmalepp@hotmail.com)
+[![Facebook](/images/fb.png)](https://www.facebook.com/LakmalEpp)
+[![LinkedIn](/images/li.png)](https://www.linkedin.com/in/dimuthu-lakmal-4593421a1)
+[![Twitter](/images/tw.png)](https://www.twitter.com/LakmalEpp)
+
