@@ -1,8 +1,9 @@
 ### 🙋‍♂️ ***Hi, I'm Lakmal.***
+![](https://komarev.com/ghpvc/?username=Lakmal98&label=PROFILE+VIEWS&color=brightgreen)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lakmal98&theme=vue&show_icons=true&count_private=true&hide_title=true&)
 
- ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=studentManagmentSystem&theme=react)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=studentManagmentSystem&theme=react)
 ### 🔭 I’m currently working on ...👇
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-frontend&theme=buefy)
@@ -25,4 +26,3 @@
 [![Facebook](/images/fb.png)](https://www.facebook.com/LakmalEpp)
 [![LinkedIn](/images/li.png)](https://www.linkedin.com/in/dimuthu-lakmal-4593421a1)
 [![Twitter](/images/tw.png)](https://www.twitter.com/LakmalEpp)
-
