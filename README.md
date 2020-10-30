@@ -9,7 +9,7 @@
 ### 🌱 I’m currently learning ... 👇
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=ChargerRemoveAlarm&theme=algolia)
 ### 🏁 Finished ... 👇
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=studentManagmentSystem&theme=react)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=yoyo&theme=buefy)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=NewMail&theme=nord)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=DailyTaskApp&theme=vue)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=studentManagmentSystem&theme=react)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=yoyo&theme=buefy)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=DailyTaskApp&theme=vue)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=NewMail&theme=nord)
 
 ------------
 
