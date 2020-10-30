@@ -3,18 +3,16 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lakmal98&theme=vue&show_icons=true&count_private=true&hide_title=true&)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=studentManagmentSystem&theme=react)
 ### 🔭 I’m currently working on ...👇
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-frontend&theme=buefy)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-frontend&theme=vue) ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-backend&theme=react)
 ### 🌱 I’m currently learning ... 👇
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=ChargerRemoveAlarm&theme=algolia)
 ### 🏁 Finished ... 👇
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=yoyo&theme=buefy)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=studentManagmentSystem&theme=react)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=yoyo&theme=buefy)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=NewMail&theme=nord)![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=DailyTaskApp&theme=vue)
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=NewMail&theme=nord)
+------------
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=DailyTaskApp&theme=vue)
 
 ##### 👯 I’m looking to collaborate on `REST API`
 ##### 🤔 I’m looking for help with *`React`*, *`Vue`*
