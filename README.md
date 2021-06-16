@@ -4,11 +4,12 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Lakmal98&theme=vue&show_icons=true&count_private=true&hide_title=true)
 
 ### 🔭 I’m currently working on ...👇
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-frontend&theme=vue)](https://github.com/Lakmal98/presence-web-frontend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-backend&theme=react)](https://github.com/Lakmal98/presence-web-backend)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-frontend&theme=vue)](https://github.com/homey-lk/homey-frontend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-backend&theme=react)](https://github.com/homey-lk/homey-backend)
 ### 🌱 I’m currently learning ... 👇
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=vue-app&theme=vue)](https://github.com/Lakmal98/vue-app) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=ChargerRemoveAlarm&theme=algolia)](https://github.com/Lakmal98/ChargerRemoveAlarm)
 ### 🏁 Finished ... 👇
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-frontend&theme=vue)](https://github.com/homey-lk/homey-frontend) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=homey-lk&repo=homey-backend&theme=react)](https://github.com/homey-lk/homey-backend)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=studentManagmentSystem&theme=react)](https://github.com/Lakmal98/studentManagmentSystem) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=yoyo&theme=buefy)](https://github.com/Lakmal98/yoyo) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=DailyTaskApp&theme=vue)](https://github.com/Lakmal98/DailyTaskApp) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Lakmal98&repo=NewMail&theme=nord)](https://github.com/Lakmal98/NewMail)
 
 ------------
