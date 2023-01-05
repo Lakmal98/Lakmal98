@@ -1,8 +1,6 @@
 ### 🙋‍♂️ ***Hi, I'm Lakmal.***
 ![](https://komarev.com/ghpvc/?username=Lakmal&label=PROFILE+VIEWS&color=brightgreen)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Lakmal98&theme=vue&show_icons=true&count_private=true&hide_title=true)
-
 
 ##### 👯 I’m looking to collaborate on `Nureal Network, Python development, Backend Development, REST API`
 ##### 🤔 I’m looking for help with *`AI`*, *`Deep Learning`*
