@@ -81,15 +81,3 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/lakmal98/count.svg?"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://lakmal.dev/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fmain-img.0dcb8b23.png&w=640&q=75"  />
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
